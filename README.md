@@ -49,7 +49,7 @@ Esta seção documenta a jornada de refinamento da interação com o NotebookLM.
 ### 🩹 Cicatrizes (Troubleshooting e Desafios)
 *   **Desafio de Alucinação/Imprecisão:** No início, a IA mesclava conceitos de fora das fontes enviadas.
     *   *Como resolvi:* Adicionei a restrição explícita: `"Responda APENAS com base nos documentos fornecidos. Se a informação não estiver neles, diga que não sabe."`
-*   **Desafio de Contexto:** Conteúdo de fonte única
+*   **Desafio de Contexto:** Conteúdo de fonte única.
     * Dado que as fontes pertencem à mesma instituição de ensino, faltou mais contexto; diferentes currículos de referência poderiam trazer mais dinamismo ao tema e, assim, estimular a criação de novos conceitos a partir de perspectivas variadas.
 
 ---
