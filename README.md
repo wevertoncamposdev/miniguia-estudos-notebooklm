@@ -24,9 +24,9 @@ Este repositório foi desenvolvido como parte de um desafio prático da **DIO (D
 
 Para alimentar o NotebookLM e garantir respostas de alta qualidade técnica, foram selecionadas e carregadas as seguintes fontes abertas (PDFs e artigos):
 
-1.  **[Currículo de Referência em Tecnologia e Computação](https://www.cieb.net.br/wp-content/uploads/2019/09/Curr%C3%ADculo-CIEB-2019.pdf)** - *[Autor/Instituição]*
+1.  **[Currículo de Referência em Tecnologia e Computação](https://www.cieb.net.br/wp-content/uploads/2019/09/Curr%C3%ADculo-CIEB-2019.pdf)** - *CIEB*
     *   **Descrição:** Foca nos conceitos iniciais e no publico do ensino infatil e fundamental
-2.  **[Itinerário Formativo](https://cieb.net.br/wp-content/uploads/2020/07/ITINERARIO-FORMATIVO-CIEB.pdf)** - *[Autor/Instituição]*
+2.  **[Itinerário Formativo](https://cieb.net.br/wp-content/uploads/2020/07/ITINERARIO-FORMATIVO-CIEB.pdf)** - *CIEB*
     *   **Descrição:** Com o objetivo de preparar o egresso para o mercado de trabalho e para o ensino superior, promovendo o uso crítico e responsável das tecnologias
 
 ---
